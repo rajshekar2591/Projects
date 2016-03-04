@@ -1,6 +1,5 @@
 %Reading input data
 
-
 NetData = xlsread('InputNetSF.xlsx','Network','B9:E84');
 ODMatrix = xlsread('InputNetSF.xlsx','ODmatrixMod','AL7:BI30');
 
